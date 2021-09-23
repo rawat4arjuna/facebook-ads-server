@@ -12,6 +12,7 @@ const categories = [
     id: 0,
     population: populationPerMillion[0],
     rating: 3.4,
+    ipd: 12,
   },
   {
     label: "Educational",
@@ -20,6 +21,7 @@ const categories = [
     id: 1,
     population: populationPerMillion[1],
     rating: 4.0,
+    ipd: 10,
   },
   {
     label: "Services",
@@ -28,6 +30,7 @@ const categories = [
     id: 2,
     population: populationPerMillion[2],
     rating: 4.2,
+    ipd: 11,
   },
   {
     label: "Gambling",
@@ -36,6 +39,7 @@ const categories = [
     cpc: 1,
     population: populationPerMillion[3],
     rating: 1.2,
+    ipd: 3,
   },
 ];
 
