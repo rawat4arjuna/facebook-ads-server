@@ -8,7 +8,7 @@ const categories = [
   {
     label: "Beauty",
     ctr: 1,
-    cpc: 0.5,
+    cpc: 0.58,
     id: 0,
     population: populationPerMillion[0],
     rating: 3.4,
@@ -16,7 +16,7 @@ const categories = [
   },
   {
     label: "Educational",
-    ctr: 2.3,
+    ctr: 0.32,
     cpc: 0.4,
     id: 1,
     population: populationPerMillion[1],
@@ -25,7 +25,7 @@ const categories = [
   },
   {
     label: "Services",
-    ctr: 1.4,
+    ctr: 0.48,
     cpc: 0.9,
     id: 2,
     population: populationPerMillion[2],
@@ -34,7 +34,7 @@ const categories = [
   },
   {
     label: "Gambling",
-    ctr: 0.3,
+    ctr: 0.37,
     id: 3,
     cpc: 1,
     population: populationPerMillion[3],
