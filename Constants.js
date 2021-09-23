@@ -1,3 +1,9 @@
+const populationPerMillion = {
+  0: 200560,
+  1: 300450,
+  2: 400569,
+  3: 45607,
+};
 const categories = [
   {
     label: "Beauty",
@@ -33,10 +39,4 @@ const categories = [
   },
 ];
 
-const populationPerMillion = {
-  0: 200560,
-  1: 300450,
-  2: 400569,
-  3: 45607,
-};
 module.exports = { categories };
